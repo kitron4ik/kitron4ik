@@ -1,4 +1,4 @@
-## Я начинающий программист и дизайнер, котором нравится своё дело
+## Я начинающий программист и дизайнер, которому нравится своё дело
 ## Языки и движки, которыми я облодаю и умею пользоваться:
 ![React](https://img.shields.io/badge/-React-070005?style=for-the-badge&logo=React&logoColor=2cd3c9)
 ![C++](https://img.shields.io/badge/-C++-070005?style=for-the-badge&logo=Cplusplus&logoColor=2cd3c9)
