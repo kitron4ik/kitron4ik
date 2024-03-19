@@ -1,4 +1,4 @@
-[![Header](https://github.com/kitron4ik/kitron4ik/blob/main/assets/я.jpeg)](https://t.me/Kitronlets)
+[![Header](https://github.com/kitron4ik/kitron4ik/blob/main/assets/я.jpeg)](https://github.com/kitron4ik/kitron4ik/blob/main/assets/я.jpeg){:height="100px" width="100px"}(https://t.me/Kitronlets)
 
 ## Я начинающий программист и дизайнер, котором нравится своё дело
 ## Языки и движки, которыми я облодаю и умею пользоваться:
