@@ -1,17 +1,87 @@
-## Я начинающий программист и дизайнер, которому нравится своё дело
-## Языки и движки, которыми я облодаю и умею пользоваться:
-![React](https://img.shields.io/badge/-React-070005?style=for-the-badge&logo=React&logoColor=2cd3c9)
-![C++](https://img.shields.io/badge/-C++-070005?style=for-the-badge&logo=Cplusplus&logoColor=2cd3c9)
-![C#](https://img.shields.io/badge/-Csharp-070005?style=for-the-badge&logo=Csharp&logoColor=2cd3c9)
-![CSS](https://img.shields.io/badge/-CSS-070005?style=for-the-badge&logo=CSS3&logoColor=003ce4)
-![HTML](https://img.shields.io/badge/-HTML-070005?style=for-the-badge&logo=HTML5)
-![JavaScript](https://img.shields.io/badge/-JavaScript-070005?style=for-the-badge&logo=JavaScript)
-![Python](https://img.shields.io/badge/-Python-070005?style=for-the-badge&logo=Python)
 
-## По всем вопросам обращаться в вк или телеграм:
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello%20World&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I%20build%20AI%20Bots%20&%20Web%20Apps&descAlignY=51&descAlign=62" width="100%"/>
+</div>
 
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-070005?style=for-the-badge&logo=vk&logoColor=1954b5)](https://vk.com/kitronox)
-[![Python](https://img.shields.io/badge/-Telegram-070005?style=for-the-badge&logo=telegram)](https://t.me/Kitrolad)
+<div align="center">
 
-## Моё творчество в Telegram(P.s пока не активно)
-[![Header](https://github.com/kitron4ik/kitron4ik/blob/main/assets/я.jpeg)](https://t.me/Kitronlets)
+# 👨‍💻 I'm a Full Stack Developer & AI Enthusiast
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Python+Developer;Telegram+Bot+Expert;AI+Integrations+(GPT-4);Frontend+Wizard+(HTML%2FCSS))](https://git.io/typing-svg)
+
+</div>
+
+---
+
+### 🚀 About Me
+
+I specialize in **automating businesses** using Telegram Bots and AI. I turn complex problems into simple, profitable solutions. 
+
+- 🔭 I’m currently working on **AI Sales Agents**
+- 🌱 I’m currently learning **LangChain & LLM Orchestration**
+- 💬 Ask me about **Python, Telegram API, FastAPI, Docker**
+- 📫 Lead Generation & Automation: **[Contact Me](https://t.me/NeroShoting)**
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+| Backend | Frontend | DevOps & Tools |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=python,fastapi,django" /> | <img src="https://skillicons.dev/icons?i=html,css,js,react" /> | <img src="https://skillicons.dev/icons?i=docker,git,linux,vscode" /> |
+| **Python 3.11+, Aiogram** | **Responsive Design** | **Deploy & CI/CD** |
+
+</div>
+
+---
+
+### 🏆 Featured Projects
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center">🤖 Telegram Portfolio Bot</h3>
+      <p align="center">A complex ecosystem of Mini Apps: Shop, Booking, Dating, and AI Chat.</p>
+      <p align="center">
+        <a href="https://github.com/kitron4ik/ProjectsPortfolio">
+          <img src="https://img.shields.io/badge/View_Code-black?style=for-the-badge&logo=github" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🧠 AI Sales Agent</h3>
+      <p align="center">Automated sales funnel using OpenAI GPT-4 to qualify leads.</p>
+      <p align="center">
+        <a href="https://github.com/kitron4ik/ProjectsPortfolio/tree/main/02_AIChatbots">
+          <img src="https://img.shields.io/badge/View_Demo-blue?style=for-the-badge&logo=openai" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kitron4ik&show_icons=true&theme=radical&count_private=true" height="180" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kitron4ik&layout=compact&theme=radical" height="180" alt="languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kitron4ik&theme=radical&no-frame=true&margin-w=15" />
+</div>
+
+---
+
+<div align="center">
+  
+### 🤝 Let's Connect
+
+[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>](https://t.me/NeroShoting)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:craftukww@gmail.com)
+
+</div>
