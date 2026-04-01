@@ -64,18 +64,6 @@ I specialize in **automating businesses** using Telegram Bots and AI. I turn com
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kitron4ik&show_icons=true&theme=radical&count_private=true" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kitron4ik&layout=compact&theme=radical" height="180" alt="languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kitron4ik&theme=radical&no-frame=true&margin-w=15" />
-</div>
-
----
 
 <div align="center">
   
