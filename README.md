@@ -25,11 +25,10 @@ Python + Kotlin + Dart + Go — боты, мини-приложения, моб�
 ---
 
 ### 🏆 Featured Projects
-
 - 🤖 **[Telegram Portfolio Bot](https://github.com/kitron4ik/ProjectsPortfolio)** — экосистема мини-приложений: Shop, Booking, Dating, AI Chat.
 - 🧠 **[AI Sales Agent](https://github.com/kitron4ik/ProjectsPortfolio/tree/main/02_AIChatbots)** — автоматизированная воронка продаж на GPT-4.
-- 🥗 **EasyFood** — мобильное приложение на Kotlin *(закрытый репозиторий)*.
-- 🏔 **Крымские Тропы** — приложение на Dart/Flutter с туристическими маршрутами и достопримечательностями Крыма, опубликовано на RuStore *(закрытый репозиторий)*.
+- 🥗 **EasyFood** — мобильное приложение на Kotlin: клиент, backend, лендинг и своя инфраструктура (nginx, SSL, CI/CD) *(закрытый репозиторий)*.
+- 🏔 **[Крымские Тропы](https://gitlab.com/kitron4ik/krimaigid)** — приложение на Flutter с маршрутами по Крыму: 500+ мест, 20+ городов, живая навигация. Опубликовано на RuStore.
 - 🎮 **Игра для MAX** — игра на Go для мессенджера MAX.
 - 🌐 **Web-сервис** — на Vue3 + Django.
 
