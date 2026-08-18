@@ -1,75 +1,41 @@
+# 👨‍💻 Full Stack Developer & AI Enthusiast
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello%20World&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I%20build%20AI%20Bots%20&%20Web%20Apps&descAlignY=51&descAlign=62" width="100%"/>
-</div>
-
-<div align="center">
-
-# 👨‍💻 I'm a Full Stack Developer & AI Enthusiast
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Python+Developer;Telegram+Bot+Expert;AI+Integrations+(GPT-4);Frontend+Wizard+(HTML%2FCSS))](https://git.io/typing-svg)
-
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Python+%2B+Kotlin+%2B+Dart+%2B+Go;Telegram+Bots+%26+Mini+Apps;Mobile+%26+Web+для+бизнеса)](https://git.io/typing-svg)
 
 ---
 
 ### 🚀 About Me
 
-I specialize in **automating businesses** using Telegram Bots and AI. I turn complex problems into simple, profitable solutions. 
+Разрабатываю мобильные приложения, ботов и веб-сервисы под реальные бизнес-задачи — от Telegram Mini Apps и нативных Android-приложений до игр и веб-сервисов.
 
-- 🔭 I’m currently working on **AI Sales Agents**
-- 🌱 I’m currently learning **LangChain & LLM Orchestration**
-- 💬 Ask me about **Python, Telegram API, FastAPI, Docker**
-- 📫 Lead Generation & Automation: **[Contact Me](https://t.me/NeroShoting)**
+- 🔭 Сейчас работаю над **AI Sales Agents**
+- 🌱 Изучаю **LangChain & LLM Orchestration**
+- 💬 Спрашивайте про **Python, Kotlin, Dart, Go, Vue, Telegram API, FastAPI, Docker**
+- 📫 Лидогенерация и автоматизация: **[написать в Telegram](https://t.me/NeroShoting)**
 
 ---
 
 ### 🛠️ Tech Stack
 
-<div align="center">
-
-| Backend | Frontend | DevOps & Tools |
-| :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=python,fastapi,django" /> | <img src="https://skillicons.dev/icons?i=html,css,js,react" /> | <img src="https://skillicons.dev/icons?i=docker,git,linux,vscode" /> |
-| **Python 3.11+, Aiogram** | **Responsive Design** | **Deploy & CI/CD** |
-
-</div>
+| Backend | Mobile | Frontend | DevOps & Tools |
+|---|---|---|---|
+| ![](https://skillicons.dev/icons?i=python,fastapi,django,go) | ![](https://skillicons.dev/icons?i=kotlin,dart,flutter) | ![](https://skillicons.dev/icons?i=html,css,js,vue) | ![](https://skillicons.dev/icons?i=docker,git,linux,vscode) |
+| Python, FastAPI, Django, Go | Kotlin, Dart / Flutter | HTML, CSS, JS, Vue 3 | Docker, Git, Linux |
 
 ---
 
 ### 🏆 Featured Projects
 
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <h3 align="center">🤖 Telegram Portfolio Bot</h3>
-      <p align="center">A complex ecosystem of Mini Apps: Shop, Booking, Dating, and AI Chat.</p>
-      <p align="center">
-        <a href="https://github.com/kitron4ik/ProjectsPortfolio">
-          <img src="https://img.shields.io/badge/View_Code-black?style=for-the-badge&logo=github" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🧠 AI Sales Agent</h3>
-      <p align="center">Automated sales funnel using OpenAI GPT-4 to qualify leads.</p>
-      <p align="center">
-        <a href="https://github.com/kitron4ik/ProjectsPortfolio/tree/main/02_AIChatbots">
-          <img src="https://img.shields.io/badge/View_Demo-blue?style=for-the-badge&logo=openai" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+- 🤖 **[Telegram Portfolio Bot](https://github.com/kitron4ik/ProjectsPortfolio)** — экосистема мини-приложений: Shop, Booking, Dating, AI Chat.
+- 🧠 **[AI Sales Agent](https://github.com/kitron4ik/ProjectsPortfolio/tree/main/02_AIChatbots)** — автоматизированная воронка продаж на GPT-4.
+- 🥗 **EasyFood** — мобильное приложение на Kotlin *(закрытый репозиторий)*.
+- 🏔 **Крымские Тропы** — приложение на Dart/Flutter с туристическими маршрутами и достопримечательностями Крыма, опубликовано на RuStore *(закрытый репозиторий)*.
+- 🎮 **Игра для MAX** — игра на Go для мессенджера MAX.
+- 🌐 **Web-сервис** — на Vue3 + Django.
 
 ---
 
-
-<div align="center">
-  
 ### 🤝 Let's Connect
 
-[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>](https://t.me/NeroShoting)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:craftukww@gmail.com)
-
-</div>
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/NeroShoting)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:craftukww@gmail.com)
