@@ -1,6 +1,6 @@
 # 👨‍💻 Full Stack Developer & AI Enthusiast
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Python+%2B+Kotlin+%2B+Dart+%2B+Go;Telegram+Bots+%26+Mini+Apps;Mobile+%26+Web+для+бизнеса)](https://git.io/typing-svg)
+Python + Kotlin + Dart + Go — боты, мини-приложения, мобильные приложения и веб-сервисы.
 
 ---
 
